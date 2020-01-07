@@ -6,4 +6,4 @@ An E2 Core for running serverside and clientside Lua, This is extension to the E
 
 [Workshop Version](https://steamcommunity.com/sharedfiles/filedetails/?id=) *(Coming soon!)*
 
-###### [Copyright 2019 viral32111](LICENCE.md)
+###### [Copyright 2019-2020 viral32111](LICENCE.md)
