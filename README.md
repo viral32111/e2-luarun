@@ -1,10 +1,11 @@
-## Expression 2 Lua Core
+# Expression 2 Lua Core
 
-A very simple custom core for [Wiremod](https://github.com/wiremod/wire)'s Expression 2 chip that allows me to execute Lua on the server or on any connected players.
+A custom [Wiremod](https://github.com/wiremod/wire) Expression 2 core that allows executing Lua on the server or on any connected player.
 
-If you want to use this then you should update or remove the Steam Community ID *security* checks.
+**This is a dangerous core, do not install this on a public server unless you know what you are doing.**
 
-```
+## License
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -28,5 +29,4 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <https://unlicense.org>
-```
+For more information, please refer to <http://unlicense.org/>
